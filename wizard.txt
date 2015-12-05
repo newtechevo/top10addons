@@ -1,0 +1,13 @@
+
+
+name="Zeus"
+url="https://github.com/newtechevo/top10addons/blob/master/plugin.video.zeus.zip"
+img="https://raw.githubusercontent.com/newtechevo/newtech/master/top10/icon.png"
+fanart="https://raw.githubusercontent.com/newtechevo/newtech/master/top10/icon.png"
+description="Top 10 Addons"
+
+name="UK Turk"
+url="https://github.com/newtechevo/top10addons/blob/master/plugin.video.ukturk.zip"
+img="https://raw.githubusercontent.com/newtechevo/newtech/master/top10/icon.png"
+fanart="https://raw.githubusercontent.com/newtechevo/newtech/master/top10/icon.png"
+description="Top 10 Addons"
