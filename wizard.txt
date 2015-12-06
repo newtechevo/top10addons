@@ -1,11 +1,4 @@
 
-
-name="Zeus"
-url=https://raw.githubusercontent.com/newtechevo/top10addons/master/plugin.video.zeus.zip"
-img="https://raw.githubusercontent.com/newtechevo/top10addons/master/zeus.png"
-fanart="https://raw.githubusercontent.com/newtechevo/top10addons/master/zeus.png"
-description="Zeus Video"
-
 name="UK Turk"
 url="https://raw.githubusercontent.com/newtechevo/top10addons/master/plugin.video.ukturk.zip"
 img="https://raw.githubusercontent.com/newtechevo/top10addons/master/icon.png"
