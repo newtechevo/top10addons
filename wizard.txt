@@ -1,10 +1,10 @@
 
 
 name="Zeus"
-url="https://github.com/newtechevo/top10addons/blob/master/plugin.video.zeus.zip"
-img="https://raw.githubusercontent.com/newtechevo/newtech/master/top10/icon.png"
-fanart="https://raw.githubusercontent.com/newtechevo/newtech/master/top10/icon.png"
-description="Top 10 Addons"
+url=https://raw.githubusercontent.com/newtechevo/top10addons/master/plugin.video.zeus.zip"
+img="https://raw.githubusercontent.com/newtechevo/top10addons/master/zeus.png"
+fanart="https://raw.githubusercontent.com/newtechevo/top10addons/master/zeus.png"
+description="Zeus Video"
 
 name="UK Turk"
 url="https://raw.githubusercontent.com/newtechevo/top10addons/master/plugin.video.ukturk.zip"
